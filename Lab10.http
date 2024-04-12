@@ -1,0 +1,10 @@
+@Lab10_HostAddress = https://localhost:7177
+
+GET {{Lab10_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{Lab10_HostAddress}}/api/plants
+
+###
